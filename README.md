@@ -8,6 +8,8 @@
 ![Optimization](https://img.shields.io/badge/Hardware-CPU_Optimized-green?style=for-the-badge)
 
 ---
+<img src="https://github.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/blob/main/image.png?raw=true" width="350">
+---
 
 ## 🚀 Overview
 FaceGuard-Pro is an advanced biometric security solution designed for government buildings, airports, and universities. It replaces traditional ID cards with a high-accuracy facial recognition engine. 
@@ -24,7 +26,6 @@ FaceGuard-Pro is an advanced biometric security solution designed for government
 * **Secure Access Logs:** Automatic logging of entry/exit times with identity verification.
 
 ---
-
 ## 📸 System Showcase
 
 | Feature | Interface Preview | Technical Description |
