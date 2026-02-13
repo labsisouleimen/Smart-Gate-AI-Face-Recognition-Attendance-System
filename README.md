@@ -30,7 +30,7 @@ FaceGuard-Pro is an advanced biometric security solution designed for government
 
 | Feature | Interface Preview | Technical Description |
 | :--- | :---: | :--- |
-| **Real-time Recognition** | <img src="رابط_صورة_المسح" width="350"> | Detecting and identifying faces instantly from a live camera stream. |
+| **Real-time Recognition** | <img src="https://github.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/blob/main/image.png?raw=true" width="350"> | Detecting and identifying faces instantly from a live camera stream. |
 | **Enrollment System** | <img src="رابط_صورة_التسجيل" width="350"> | High-speed facial registration to the encrypted biometric database. |
 | **Activity Reports** | <img src="رابط_صورة_السجلات" width="350"> | Detailed access logs for security audits and attendance tracking. |
 
