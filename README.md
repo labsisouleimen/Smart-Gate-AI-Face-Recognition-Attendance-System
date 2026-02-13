@@ -30,9 +30,9 @@ FaceGuard-Pro is an advanced biometric security solution designed for government
 
 | Feature | Interface Preview | Technical Description |
 | :--- | :---: | :--- |
-| **Real-time Recognition** | <img src="https://github.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/blob/main/image.png?raw=true" width="350"> | Detecting and identifying faces instantly from a live camera stream. |
-| **Enrollment System** | <img src="رابط_صورة_التسجيل" width="350"> | High-speed facial registration to the encrypted biometric database. |
-| **Activity Reports** | <img src="رابط_صورة_السجلات" width="350"> | Detailed access logs for security audits and attendance tracking. |
+| **Real-time Recognition** | <img src="https://raw.githubusercontent.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/1e528c8b24df34bbe8d0c27cb938126b41ca0b15/image.png" width="350"> | Detecting and identifying faces instantly from a live camera stream. |
+| **Enrollment System** | <img src="https://raw.githubusercontent.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/ff504f572f0ccbd5a701572729ad30118e2efe0b/image.png" width="350"> | High-speed facial registration to the encrypted biometric database. |
+| **Activity Reports** | <img src="https://raw.githubusercontent.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/6ae4d9e5df1f74b4e02708c526a159889a8ebaa9/image.png" width="350"> | Detailed access logs for security audits and attendance tracking. |
 
 ---
 
