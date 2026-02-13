@@ -8,7 +8,7 @@
 ![Optimization](https://img.shields.io/badge/Hardware-CPU_Optimized-green?style=for-the-badge)
 
 ---
-<img src="https://github.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/blob/main/image.png?raw=true" width="350">
+<img src="https://raw.githubusercontent.com/labsisouleimen/Smart-Gate-AI-Face-Recognition-Attendance-System/d4154e3161616898c6c2ed776b681f505a9716f2/image.png" width="350">
 ---
 
 ## 🚀 Overview
