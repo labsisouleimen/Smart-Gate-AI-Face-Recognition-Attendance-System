@@ -36,10 +36,14 @@ FaceGuard-Pro is an advanced biometric security solution designed for government
 
 ---
 
-## ⚙️ Model Download
-Due to GitHub's file size limits, the pre-trained FaceNet model is hosted externally.
-1. **[Download the FaceNet Model Here]([رابط_التحميل_الخاص_بك](https://drive.google.com/uc?export=download&id=1Lta7ogsdTgYaCV9uEHV7Cj4MbLGXsLPY))**
-2. Place the downloaded file inside the `/models` directory of this project.
+#### 📥 Model Setup
+To get the system running, you need to download the pre-trained FaceNet weights:
+
+1. **Download the Model:** [Click here to download FaceNet Weights (facenet_keras.h5)](https://drive.google.com/uc?export=download&id=1Lta7ogsdTgYaCV9uEHV7Cj4MbLGXsLPY)
+2. **Directory:** Create a folder named `models` in your project root directory.
+3. **Placement:** Move the downloaded file into the `models/` folder.
+
+> **Note:** This specific model file is optimized for our CPU-friendly inference scripts, ensuring high performance on lower-end hardware.
 
 ---
 
