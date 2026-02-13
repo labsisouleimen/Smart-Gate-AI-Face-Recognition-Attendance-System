@@ -38,7 +38,7 @@ FaceGuard-Pro is an advanced biometric security solution designed for government
 
 ## ⚙️ Model Download
 Due to GitHub's file size limits, the pre-trained FaceNet model is hosted externally.
-1. **[Download the FaceNet Model Here](رابط_التحميل_الخاص_بك)**
+1. **[Download the FaceNet Model Here]([رابط_التحميل_الخاص_بك](https://drive.google.com/uc?export=download&id=1Lta7ogsdTgYaCV9uEHV7Cj4MbLGXsLPY))**
 2. Place the downloaded file inside the `/models` directory of this project.
 
 ---
